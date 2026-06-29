@@ -1,0 +1,24 @@
+--------------------------------------------------------
+1: Name of Student is Sarvesh
+ Rollno is 16
+ His marks are [99, 75, 88] 
+ Total marks are 262
+ Percentage are 87.33333333333333 
+ Grades are B 
+--------------------------------------------------------
+--------------------------------------------------------
+2: Name of Student is Sam
+ Rollno is 17
+ His marks are [59, 45, 65] 
+ Total marks are 169
+ Percentage are 56.333333333333336 
+ Grades are D 
+--------------------------------------------------------
+--------------------------------------------------------
+3: Name of Student is Jameel
+ Rollno is 5
+ His marks are [20, 40, 53] 
+ Total marks are 113
+ Percentage are 37.666666666666664 
+ Grades are FAIL 
+--------------------------------------------------------
